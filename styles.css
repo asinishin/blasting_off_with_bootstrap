@@ -3,6 +3,10 @@
     text-align: center;
 }
 
+.lead-section {
+    margin-top: 65px
+}
+
 /* Navigation */
 .navbar {
     background-color: rgb(51, 122, 183);
