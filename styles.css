@@ -51,16 +51,6 @@
     height: 160px;
 }
 
-.b_3 {
-    background-color: blue;
-    height: 160px;
-}
-
-.b_4 {
-    background-color: yellow;
-    height: 160px;
-}
-
 .footer {
     background-color: #333;
     padding-top: 30px;
@@ -69,5 +59,6 @@
     //height: 220px;
 }
 
-h4 {
+.blog-content {
+    margin-top: 65px;
 }
