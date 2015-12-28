@@ -40,3 +40,29 @@
         color: #d8e6f3;
     }
 }
+
+.b_1 {
+    background-color: red;
+    height: 160px;
+}
+
+.b_2 {
+    background-color: green;
+    height: 160px;
+}
+
+.b_3 {
+    background-color: blue;
+    height: 160px;
+}
+
+.b_4 {
+    background-color: yellow;
+    height: 160px;
+}
+
+.footer {
+    background-color: #333;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
