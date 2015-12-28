@@ -46,7 +46,14 @@
     padding-top: 30px;
     padding-bottom: 30px;
     color: rgb(239,239,239);
-    //height: 220px;
+}
+
+.meta li:last-child {
+    border-right: none;
+}
+
+.meta li {
+    border-right: solid 1px rgb(119,119,119);
 }
 
 .blog-content {
